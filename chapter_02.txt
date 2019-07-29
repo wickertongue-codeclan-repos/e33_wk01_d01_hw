@@ -3,3 +3,5 @@
 ## The Middle
 
 This is the middle, where all the middle things happen. All the good stuff. 
+
+And some more text here too.
